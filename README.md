@@ -1,7 +1,7 @@
 <p align=center>  <img src="https://komarev.com/ghpvc/?username=yaoig0d&color=blue&label=学生&style=plastic)">
 <div>
   
-<img src="https://mypillowfort.net/media2/tumblr_77d17e077a3f5dc583c613f395f2e7b4_6d1593e5_250.gif" style="float: left;"> <br>
+<img width="368" height="279.5" alt="sweet pool" src="https://github.com/user-attachments/assets/839fa139-c82a-497f-b54f-e7ba5fcd1976" style="float: left;"> <br>
 <p style="float: right;">fddfdf</p>
 
 </div>
